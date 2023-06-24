@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "283375488812",
+    "firebase_url": "https://doshag-9564c.firebaseio.com",
+    "project_id": "doshag-9564c",
+    "storage_bucket": "doshag-9564c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283375488812:android:c8eaa4c363818216f8e689",
+        "android_client_info": {
+          "package_name": "com.app.rn.doshag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283375488812-tvaqbsmo93edlp6ajqhblo4fs66208mg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.rn.doshag",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "283375488812-a16fnl6v2b02uu36c7jcurt9qqnj7n3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUeh_Z0ZUiyx9hWeLI2q8hvoTGcCTRSLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283375488812-a16fnl6v2b02uu36c7jcurt9qqnj7n3c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "283375488812-k6te1ompqv71v95edbd7mq2sccqou9qh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flufydev.doshag"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
